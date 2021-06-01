@@ -1,0 +1,90 @@
+body {
+    background-color: Black;
+    color: White;
+    background-image: -webkit-linear-gradient(black, #1000c3);
+    text-align: center;
+	font-family: "Arial Narrow", sans-serif;
+}
+
+@font-face {
+    font-family: "Arial Narrow";
+    src: url(http://www.gamecorpgames.net/Arialn.ttf);
+}
+
+@font-face{
+    font-family: "Arial Narrow"
+    src("http://www.gamecorpgames.net/arialn.ttf")
+}
+
+th {
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    padding: 40px 80px;
+}
+
+#td1 {
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    padding: 40px 80px;
+    background-image: -webkit-linear-gradient(#98FF98, #1000c3);
+}
+
+#td2 {
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    padding: 40px 80px;
+    background-image: -webkit-linear-gradient(#1000c3, #98FF98);
+}
+
+th {
+    background-color: #98ff98;
+}
+
+#black {
+	color: black;
+}
+
+a {
+	color: lime;
+}
+
+#thumb {
+	height: 60px;
+	width: 60px;
+}
+
+.header {
+	padding: 0.313em 0.625em 0.313em 0.625em;
+	margin: -0.625em -1.250em -0.625em -1.250em;
+    position: fixed;
+    background-color: #98FF98;
+}
+
+#header-links {
+    border-width: 2px;
+	border-style: none solid none solid;
+	border-color: #66FF66;
+    padding: 1em 4.313em 1em 4.313em;
+	background-color: #98FF98;
+    color: black;
+    margin: -0.250em;
+	position: relative;
+	bottom: 0.688em;
+	left: 0.375em;
+	z-index: 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
+}

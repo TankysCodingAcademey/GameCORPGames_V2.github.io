@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "Arial Narrow";
+    src: url(http://www.gamecorpgames.net/Arialn.ttf);
+}
+
+@font-face{
+    font-family: "Arial Narrow"
+    src("http://www.gamecorpgames.net/arialn.ttf")
+}
+
+
+.header {
+	padding: 0.313em 0.625em 0.313em 0.625em;
+	margin: -0.625em -1.250em -0.625em -1.250em;
+    position: fixed;
+    background-color: #98FF98;
+}
+
+#header-links {
+    border-width: 2px;
+	border-style: none solid none solid;
+	border-color: #66FF66;
+    padding: 1em 4.313em 1em 4.313em;
+	background-color: #98FF98;
+    color: black;
+    margin: -0.250em;
+	position: relative;
+	bottom: 0.688em;
+	left: 0.375em;
+
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
+}
+
+img {
+    height: 2.5em;
+	position: relative;
+	top: 0.75em;
+}
+
+body {
+	text-align: center;
+	background-color: #1000c3;
+		font-family: "Arial Narrow", sans-serif;
+}
+
+h1, p, summary, details {
+	color: white;
+}
