@@ -1,3 +1,0 @@
-Arrow Keys to Move
-Spacebar to Jump
-Press 0 to Toggle Sound
